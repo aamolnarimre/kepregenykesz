@@ -1,0 +1,30 @@
+body{
+    background-image: url(hatter.jpg);
+  
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    justify-content: center;
+    
+    
+    
+}
+li{
+    color: blue;
+    padding-top: 0px;
+}
+p{color: chartreuse;
+    padding-top: 10px;
+    padding-bottom: 0px ;
+}
+nav h1{
+    color: cadetblue;
+}
+.form-check h3{
+    color: cadetblue; 
+}
+li{list-style-type:none ;}
